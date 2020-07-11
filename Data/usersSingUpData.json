@@ -1,0 +1,18 @@
+{
+
+  "user1":{
+    "firstName1":"Laza",
+    "lastName1":"Lazic",
+        "email1":"sanndricak@gmail.com",
+    "password1": "loyinka1234"
+
+  },
+
+  "user2":{
+    "firstName2":"Pera",
+    "lastName2":"Peric",
+      "email2":"perinaposta@gmail.com" ,
+    "password2":"perinpass1"
+
+  }
+}

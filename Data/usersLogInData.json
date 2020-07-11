@@ -1,0 +1,14 @@
+{
+
+  "user1":{
+          "email1":"sanndricak@gmail.com",
+    "password1": "Lozinka11234!"
+
+  },
+
+  "user2":{
+          "email2":"perinaposta@gmail.com" ,
+    "password2":"perinpass1"
+
+  }
+}

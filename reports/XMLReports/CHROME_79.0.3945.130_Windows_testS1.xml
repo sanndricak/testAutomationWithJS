@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="testS1"
+    errors="1" failures="0" hostname="" id="" package="testS1" skipped="0"
+    tests="1" time="0.003000" timestamp="">
+  
+    <testcase name="Change language on page" classname="testS1" time="0.003000" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+      [0;31m  ReferenceError: login is not defined[0m
+[0;90m       at Object.Change language on page (C:\Users\Mirici\Desktop\testAutomation\tests\testS1.js:7:6)
+       at processTicksAndRejections (internal/process/task_queues.js:97:5)[0m
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>
